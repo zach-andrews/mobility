@@ -1,0 +1,403 @@
+
+{
+    "Upper":{
+        "Warmup": {
+            "0": {
+                "Name": "Ball rotation on the wall",
+                "reps": 10,
+                "sets": 3
+            },
+            "1": {
+                "Name": "Snow angels on the wall",
+                "reps": 10,
+                "sets": 3
+            },
+            "2": {
+                "Name": "Arm rotation with foam roller on the wall",
+                "reps": 10,
+                "sets": 3
+            },
+            "3": {
+                "Name": "Y-lift off with resistance band",
+                "reps": 10,
+                "sets": 3
+            },
+            "4": {
+                "Name": "Ball rotation on the wall",
+                "reps": 10,
+                "sets": 3
+            },
+            "5": {
+                "Name": "Banded arm slide up with extension",
+                "reps": 10,
+                "sets": 3
+            },
+            "6": {
+                "Name": "SA extension with towel",
+                "reps": 10,
+                "sets": 3
+            }
+        },
+        "Mobility": {
+                "0": {
+                    "Name": "Arm lateral pulls with resistance band",
+                    "reps": 10,
+                    "sets": 3
+                },
+                "1": {
+                    "Name": "Internal rotation with resistance band",
+                    "reps": 10,
+                    "sets": 3
+                },
+                "2": {
+                    "Name": "Pull, rotate and press with resistance band",
+                    "reps": 10,
+                    "sets": 3
+                },
+                "3": {
+                    "Name": "Side arm raises with cable",
+                    "reps": 10,
+                    "sets": 3
+                },
+                "4": {
+                    "Name": "Full arm rotation with pipe",
+                    "reps": 10,
+                    "sets": 3
+                },
+                "5": {
+                    "Name": "Back extension with pipe on the bench",
+                    "reps": 10,
+                    "sets": 3
+                },
+                "6": {
+                    "Name": "Shoulder internal rotation three counts",
+                    "reps": 10,
+                    "sets": 3
+                },
+                "7": {
+                    "Name": "Ball prone Y and T",
+                    "reps": 12,
+                    "sets": 3
+                },
+                "8": {
+                    "Name": "Half kneeling pull and press with kettlebell",
+                    "reps": 10,
+                    "sets": 3
+                },
+                "9": {
+                    "Name": "Superman to shoulder rotation with resistance band",
+                    "reps": 10,
+                    "sets": 3
+                },
+                "10": {
+                    "Name": "Cable rows",
+                    "reps": 12,
+                    "sets": 3
+                },
+                "11": {
+                    "Name": "Hollow body holds single arm chest press",
+                    "reps": 12,
+                    "sets": 3
+                },
+                "12": {
+                    "Name": "TRX rows on the box",
+                    "reps": 12,
+                    "sets": 3
+                },
+                "13": {
+                    "Name": "TRX dragon flies",
+                    "reps": 10,
+                    "sets": 3
+                },
+                "14": {
+                    "Name": "TRX lat pull up",
+                    "reps": 10,
+                    "sets": 3
+                },
+                "15": {
+                    "Name": "TRX rows to curls",
+                    "reps": 12,
+                    "sets": 3
+                },
+                "16": {
+                    "Name": "Renegade rows to side arm press",
+                    "reps": 10,
+                    "sets": 3
+                },
+                "17": {
+                    "Name": "Prone swimmers rotation on the bench",
+                    "reps": 10,
+                    "sets": 3
+                },
+                "18": {
+                    "Name": "Bear crawl with 25lbs plate pull",
+                    "reps": "20 yards",
+                    "sets": 3
+                },
+                "19": {
+                    "Name": "Front raises to side raises",
+                    "reps": 10,
+                    "sets": 3
+                },
+                "20": {
+                    "Name": "Chest pull with resistance band",
+                    "reps": 10,
+                    "sets": 3
+                },
+                "21": {
+                    "Name": "Scarecrow extension with dumbbell",
+                    "reps": 10,
+                    "sets": 3
+                },
+                "22": {
+                    "Name": "Prone single arm lateral raises with dumbbell",
+                    "reps": 10,
+                    "sets": 3
+                },
+                "23": {
+                    "Name": "High plank with tri touch on cones",
+                    "reps": 10,
+                    "sets": 3
+                },
+                "24": {
+                    "Name": "Bent over Y with cable bar",
+                    "reps": 10,
+                    "sets": 3
+                },
+                "25": {
+                    "Name": "Resistance band rows to wide out Y",
+                    "reps": 10,
+                    "sets": 3
+                },
+                "26": {
+                    "Name": "Quadruped T with resistance band",
+                    "reps": 10,
+                    "sets": 3
+                },
+                "27": {
+                    "Name": "Tricep kick backs",
+                    "reps": 10,
+                    "sets": 3
+                },
+                "28": {
+                    "Name": "Banded arm press with pull",
+                    "reps": 10,
+                    "sets": 3
+                },
+                "29": {
+                    "Name": "SA shoulder press with kettlebell and resistance band",
+                    "reps": 10,
+                    "sets": 3
+                },
+                "30": {
+                    "Name": "Lumber extension with resistance band",
+                    "reps": 10,
+                    "sets": 3
+                },
+                "31": {
+                    "Name": "Kneeling hinge with resistance band",
+                    "reps": 12,
+                    "sets": 3
+                },
+                "32": {
+                    "Name": "Behind the back banded arm extension",
+                    "reps": 10,
+                    "sets": 3
+                },
+                "33": {
+                    "Name": "Half kneeling arm rotation",
+                    "reps": 10,
+                    "sets": 3
+                }
+        },
+        "Stretch": {
+            "0": {
+                "Name": "Tread the needle",
+                "reps": "30 seconds"
+            },
+            "1": {
+                "Name": "Pec stretch on the Swiss ball",
+                "reps": "30 seconds"
+            },
+            "2": {
+                "Name": "Child pose to cobra",
+                "reps": "30 seconds"
+            },
+            "3": {
+                "Name": "Capsule stretch",
+                "reps": "30 seconds"
+            },
+            "4": {
+                "Name": "Arm rotation on the roller",
+                "reps": "30 seconds"
+            },
+            "5": {
+                "Name": "Snow angels on the roller with chest press",
+                "reps": "30 seconds"
+            }
+        }
+    },
+    "Lower": {
+        "Warmup": {
+            "0": {
+                "Name": "Hip openers",
+                "reps": 10,
+                "sets": 3
+            },
+            "1": {
+                "Name": "SL hip twist with pipe",
+                "reps": 10,
+                "sets": 3
+            }
+        },
+        "Mobility": {
+                "0": {
+                    "Name": "Bosu ball kicks (front, side and back)",
+                    "reps": 10,
+                    "sets": 3
+                },
+                "1": {
+                    "Name": "Banded squats and hold",
+                    "reps": 6,
+                    "sets": 3
+                },
+                "2": {
+                    "Name": "Hip internal rotation",
+                    "reps": 10,
+                    "sets": 3
+                },
+                "3": {
+                    "Name": "Hip twist",
+                    "reps": 10,
+                    "sets": 3
+                },
+                "4": {
+                    "Name": "SL Squats to sit",
+                    "reps": 6,
+                    "sets": 3
+                },
+                "5": {
+                    "Name": "Monster walk with resistance band",
+                    "reps": 20,
+                    "sets": 3
+                },
+                "6": {
+                    "Name": "SL hinge to ball slams",
+                    "reps": 10,
+                    "sets": 3
+                },
+                "7": {
+                    "Name": "SL pistol squat taps",
+                    "reps": 10,
+                    "sets": 3
+                },
+                "8": {
+                    "Name": "Courtesy lunges",
+                    "reps": 10,
+                    "sets": 3
+                },
+                "9": {
+                    "Name": "TRX sumo squats with hip abduction",
+                    "reps": 10,
+                    "sets": 3
+                },
+                "10": {
+                    "Name": "SL hip abduction on the wall with resistance band",
+                    "reps": 10,
+                    "sets": 3
+                },
+                "11": {
+                    "Name": "Side clam shell with red band and yoga blocks",
+                    "reps": 10,
+                    "sets": 3
+                },
+                "12": {
+                    "Name": "Knee pull with resistance band",
+                    "reps": 10,
+                    "sets": 3
+                },
+                "13": {
+                    "Name": "Ankle dorsi flexion with resistance band",
+                    "reps": 10,
+                    "sets": 3
+                },
+                "14": {
+                    "Name": "Hip extension on the box",
+                    "reps": 10,
+                    "sets": 3
+                },
+                "15": {
+                    "Name": "SL wall slides with resistance band",
+                    "reps": 10,
+                    "sets": 3
+                },
+                "16": {
+                    "Name": "Incline bench squats with dumbbell",
+                    "reps": 10,
+                    "sets": 3
+                },
+                "17": {
+                    "Name": "TRX SL squats to RDL",
+                    "reps": 10,
+                    "sets": 3
+                }
+        },
+        "Stretch": {
+            "0": {
+                "Name": "Wall stretch",
+                "reps": "3 min"
+            },
+            "1": {
+                "Name": "Wall figure 4",
+                "reps": "30 seconds"
+            },
+            "2": {
+                "Name": "Pigeon stretch on the box",
+                "reps": "30 seconds"
+            },
+            "3": {
+                "Name": "Lunge to pike",
+                "reps": "6 reps"
+            },
+            "4": {
+                "Name": "Hamstring stretches with resistance band",
+                "reps": "30 seconds"
+            },
+            "5": {
+                "Name": "Lower back and hip stretch with roller",
+                "reps": "30 seconds"
+            },
+            "6": {
+                "Name": "Knee tuck stretches with rocks",
+                "reps": "6 reps"
+            }
+        }
+    },
+    "Core": {
+        "0": {
+            "Name": "Ab torso twist with ball throwing",
+            "reps": 10,
+            "sets": 3
+        },
+        "1": {
+            "Name": "Ball pass over with bended knees",
+            "reps": 10,
+            "sets": 3
+        },
+        "2": {
+            "Name": "Side plank with leg raises",
+            "reps": 10,
+            "sets": 3
+        },
+        "3": {
+            "Name": "Kettlebell half kneeling abs(around the world)",
+            "reps": 10,
+            "sets": 3
+        },
+        "4": {
+            "Name": "Bird dog with resistance band",
+            "reps": 10,
+            "sets": 3
+        }
+    }
+}
